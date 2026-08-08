@@ -1,7 +1,7 @@
 # Logical Data Type
-flag1 <- TRUE
-flag2 <- FALSE
+flag_true <- TRUE
+flag_false <- FALSE
 
-print(flag1)
-print(flag2)
-print(typeof(flag1))   # "logical"
+print(flag_true)
+print(flag_false)
+print(typeof(flag_true))   # "logical"

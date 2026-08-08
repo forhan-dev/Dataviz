@@ -1,5 +1,5 @@
 # Character Data Type
-char <- "Forhan"
+str <- "Forhan"
 
-print(char)
-print(typeof(char))   # "character"
+print(str)
+print(typeof(str))   # "character"
