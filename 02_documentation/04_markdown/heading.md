@@ -28,12 +28,14 @@ Headings in Markdown are created using the **`#` symbol**. The number of `#` sig
 
 **Output:**
 
-# PostgreSQL Workflow
-## Introduction  
-### Features  
-#### Installation  
-##### Notes  
-###### Footnotes  
+```
+PostgreSQL Workflow
+Introduction  
+Features  
+Installation  
+Notes  
+Footnotes
+```
 
 ---
 
