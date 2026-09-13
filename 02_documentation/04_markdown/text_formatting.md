@@ -41,13 +41,6 @@ Markdown provides simple ways to style text for emphasis and clarity. These form
   ```  
   Query `SELECT * FROM users;`  
 
-- **Highlight (GFM extension)** → `==text==` (not standard, but supported in some editors like Obsidian)  
-  Example:  
-  ```markdown
-  ==Highlighted==
-  ```  
-  ==Highlighted==  
-
 ---
 
 ## 🌟 Best Practices  

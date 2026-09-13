@@ -4,21 +4,15 @@ In Markdown, **paragraphs** are simply blocks of text separated by a **blank lin
 
 ---
 
-## 📊 Paragraph Separation
-
 ```markdown
 This is the first paragraph.
 
 This is the second paragraph.
 ```
 
-**Output:**  
-
-```
 This is the first paragraph.  
 
-This is the second paragraph.  
-```
+This is the second paragraph. 
 
 ---
 
@@ -31,12 +25,8 @@ This is line one.
 This is line two.
 ```
 
-**Output:**  
-
-```
 This is line one.  
 This is line two.  
-```
 
 ---
 

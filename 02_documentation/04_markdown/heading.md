@@ -1,50 +1,61 @@
-### 📘 Markdown Headings
+### ✍️ Markdown Headings  
 
-Headings in Markdown are created using the **`#` symbol**. The number of `#` signs determines the level of the heading, similar to HTML’s `<h1>` through `<h6>` tags.
+Markdown provides a simple way to structure documents using **headings**. This make content organized, readable, and hierarchical — similar to HTML’s `<h1>` through `<h6>` tags.  
 
 ---
 
-## 🔑 Syntax Rules
+## 🔑 Core Heading Levels  
 
 - **Heading 1** → `# Title`  
+  Example:  
+  ```markdown
+  # PostgreSQL Workflow
+  ```  
+  # PostgreSQL Workflow 
+
 - **Heading 2** → `## Subtitle`  
+  Example:  
+  ```markdown
+  ## Introduction
+  ```  
+  ## Introduction 
+
 - **Heading 3** → `### Section`  
+  Example:  
+  ```markdown
+  ### Features
+  ```  
+  ### Features  
+
 - **Heading 4** → `#### Subsection`  
+  Example:  
+  ```markdown
+  #### Installation
+  ```  
+  #### Installation  
+
 - **Heading 5** → `##### Detail`  
-- **Heading 6** → `###### Sub‑Detail`  
+  Example:  
+  ```markdown
+  ##### Notes
+  ```  
+  ##### Notes 
+
+- **Heading 6** → `###### Sub-Detail`  
+  Example:  
+  ```markdown
+  ###### Footnotes
+  ```  
+  ###### Footnotes  
 
 ---
 
-## 📊 Example
+## 🌟 Best Practices  
 
-```markdown
-# PostgreSQL Workflow
-## Introduction
-### Features
-#### Installation
-##### Notes
-###### Footnotes
-```
-
-**Output:**
-
-```
-PostgreSQL Workflow
-Introduction  
-Features  
-Installation  
-Notes  
-Footnotes
-```
-
----
-
-## 🌟 Best Practices
-
-- **Use only 2–3 levels** for clarity in documentation.  
+- **Use only 2–3 levels** for clarity.  
 - **Heading 1** should be reserved for the main title.  
-- **Heading 2** is ideal for major sections.  
-- **Heading 3** and below are for subsections.  
-- Keep headings **short and descriptive**.  
+- **Heading 2** ideal for major sections.  
+- **Heading 3** and below are for subsections and details.  
+- Keep headings **short, descriptive, and consistent**.  
 
 ---
