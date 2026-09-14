@@ -2,8 +2,8 @@
 - **Definition**: A plain text file with the extension `.md` or `.markdown`.
 - **Purpose**: Adds formatting (headings, lists, links, etc.) using simple punctuation.
 - **Conversion**: Can be rendered into HTML, PDF, Word, or other formats.
-- **Origin**: Created by John Gruber in 2004, with input from Aaron Swartz  
-([markdownlang.com](https://www.markdownlang.com/intro/))
+- **Origin**: Created by John Gruber in 2004, with input from Aaron Swartz:  
+[markdownlang.com](https://www.markdownlang.com/intro/)
 
 ---
 

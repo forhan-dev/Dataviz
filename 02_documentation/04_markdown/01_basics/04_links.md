@@ -40,14 +40,22 @@ Official Docs:
 
 Support Email: 
 <mailto:support@postgresql.org>
+
+Call Support: 
+<tel:+8801234567890>
 ```
 
 **Output:**  
 Official Docs:   
-<https://www.postgresql.org/docs/> 
+<https://www.postgresql.org/docs/>
 
 Support Email:   
 <mailto:support@postgresql.org>
+
+Call Support:   
+<tel:+8801234567890>
+
+---
 
 ## 🌟 Best Practices  
 
@@ -57,3 +65,5 @@ Support Email:
 - Combine with **headings** or **lists** for organized resources.  
 
 ---
+
+[Go to Installation](#🔗-markdown-links)  
