@@ -10,42 +10,48 @@ Markdown provides a simple way to structure documents using **headings**. This m
   Example:  
   ```markdown
   # PostgreSQL Workflow
-  ```  
+  ```
+  Output:  
   # PostgreSQL Workflow 
 
 - **Heading 2** → `## Subtitle`  
   Example:  
   ```markdown
   ## Introduction
-  ```  
+  ```
+  Output:
   ## Introduction 
 
 - **Heading 3** → `### Section`  
   Example:  
   ```markdown
   ### Features
-  ```  
+  ```
+  Output:
   ### Features  
 
 - **Heading 4** → `#### Subsection`  
   Example:  
   ```markdown
   #### Installation
-  ```  
+  ```
+  Output:
   #### Installation  
 
 - **Heading 5** → `##### Detail`  
   Example:  
   ```markdown
   ##### Notes
-  ```  
+  ```
+  Output:
   ##### Notes 
 
 - **Heading 6** → `###### Sub-Detail`  
   Example:  
   ```markdown
   ###### Footnotes
-  ```  
+  ```
+  Output:
   ###### Footnotes  
 
 ---

@@ -7,10 +7,11 @@ Markdown provides simple ways to style text for emphasis and clarity. These form
 ## 🔑 Core Formatting Styles  
 
 - **Bold** → `**text**`  
-  Example:  
+  Example: 
   ```markdown
   **Important Note**
   ```
+  Output:    
   **Important Note**  
 
 - **Italic** → `*text*` or `_text_`  
@@ -18,6 +19,7 @@ Markdown provides simple ways to style text for emphasis and clarity. These form
   ```markdown
   *Emphasis*
   ```  
+  Output:  
   *Emphasis*  
 
 - **Bold + Italic** → `***text***`  
@@ -25,6 +27,7 @@ Markdown provides simple ways to style text for emphasis and clarity. These form
   ```markdown
   ***Strong Emphasis***
   ```  
+  Output:   
   ***Strong Emphasis***  
 
 - **Strikethrough** → `~~text~~`  
@@ -32,6 +35,7 @@ Markdown provides simple ways to style text for emphasis and clarity. These form
   ```markdown
   ~~Deprecated Command~~
   ```  
+  Output:  
   ~~Deprecated Command~~  
 
 - **Inline Code** → `` `code` ``  
@@ -39,6 +43,7 @@ Markdown provides simple ways to style text for emphasis and clarity. These form
   ```markdown
   Query `SELECT * FROM users;`
   ```  
+  Output:   
   Query `SELECT * FROM users;`  
 
 ---
