@@ -66,4 +66,4 @@ Call Support:
 
 ---
 
-[Go to Installation](#🔗-markdown-links)  
+[Go to Installation](#✍️-Markdown-Headings)  
