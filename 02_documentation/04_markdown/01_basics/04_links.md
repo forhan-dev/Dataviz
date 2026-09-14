@@ -40,9 +40,6 @@ Official Docs:
 
 Support Email: 
 <mailto:support@postgresql.org>
-
-Call Support: 
-<tel:+8801234567890>
 ```
 
 **Output:**  
@@ -51,9 +48,6 @@ Official Docs:
 
 Support Email:   
 <mailto:support@postgresql.org>
-
-Call Support:   
-<tel:+8801234567890>
 
 ---
 
@@ -65,5 +59,3 @@ Call Support:
 - Combine with **headings** or **lists** for organized resources.  
 
 ---
-
-[Go to Installation](#✍️-markdown-headings)  
