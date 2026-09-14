@@ -4,7 +4,7 @@ Links in Markdown let you connect text to URLs, making documentation interactive
 
 ---
 
-## 🔑 Syntax  
+## 📊 Inline Links 
 
 ```markdown
 [PostgreSQL Docs](https://www.postgresql.org/docs/)
@@ -15,7 +15,7 @@ Links in Markdown let you connect text to URLs, making documentation interactive
 
 ---
 
-## 📊 Reference-Style Links  
+## 📊 Reference Links  
 
 You can also define links separately for cleaner Markdown:  
 
@@ -31,6 +31,17 @@ You can also define links separately for cleaner Markdown:
 [pg]: https://www.postgresql.org/docs/
 
 ---
+
+## 📊 Autolinks  
+
+```markdown
+Official Docs: <https://www.postgresql.org/docs/>  
+Support Email: <mailto:support@postgresql.org>
+```
+
+**Output:**  
+Official Docs: <https://www.postgresql.org/docs/>  
+Support Email: <mailto:support@postgresql.org>
 
 ## 🌟 Best Practices  
 
