@@ -35,13 +35,19 @@ You can also define links separately for cleaner Markdown:
 ## 📊 Autolinks  
 
 ```markdown
-Official Docs: <https://www.postgresql.org/docs/>  
-Support Email: <mailto:support@postgresql.org>
+Official Docs: 
+<https://www.postgresql.org/docs/>
+
+Support Email: 
+<mailto:support@postgresql.org>
 ```
 
 **Output:**  
-Official Docs: <https://www.postgresql.org/docs/>  
-Support Email: <mailto:support@postgresql.org>
+Official Docs:   
+<https://www.postgresql.org/docs/> 
+
+Support Email:   
+<mailto:support@postgresql.org>
 
 ## 🌟 Best Practices  
 
